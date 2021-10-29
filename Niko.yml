@@ -1,4 +1,3 @@
-com.github.smallru8.plugin.choose.Choose
-Choose Help:
-    /choose A B C . . .
-    /dice
+path=com.github.smallru8.plugin.choose.Choose
+startPermission=local
+help=/choose A B C...: Choose one of them.;/dice: Dice game.
